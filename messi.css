@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(179, 196, 246);
+}
+
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+
+h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  nav{
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 16px;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    background-color: rgb(14, 124, 233);
+    color: rgb(250, 252, 253);
+}
+
+nav ul li{
+    padding: 0 12px;
+    row-gap: 100px;
+    font-size: 25px;
+}
+ul li:hover {
+    color: rgb(237, 249, 249);
+    max-width: fit-content;
+    pointer-events: stroke;
+    cursor: pointer;
+}
+
+ul li a{
+    color: black;
+}
+.brand img{
+    width: 50px;
+    padding: 0 8px;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.image {
+    height: 500px;
+    display: flex;
+    padding: 0 8px;
+    margin-left: 320px;
+}
+
+.bio{
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+}
