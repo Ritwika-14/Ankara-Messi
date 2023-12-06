@@ -23,11 +23,10 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/leo-messi-autobiography.git
+git clone https://github.com/your-username/Ankara-Messi.git
 Navigate to the project directory:
 
-cd leo-messi-autobiography
+cd Ankara-Messi
 Open the index.html file in your preferred web browser.
 
 Contributing
